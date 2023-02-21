@@ -1,0 +1,36 @@
+Book ID : 1
+Book Name : Effective Java
+Book Author : Joshua Bloch
+Book Quantity : 10
+Time And date : 07:04 AM, 25/08/2022
+==========================================
+Book ID : 2
+Book Name : Head First Java
+Book Author : Kathy Sierra
+Book Quantity : 15
+Time And date : 07:05 AM, 25/08/2022
+==========================================
+Book ID : 3
+Book Name : Modern PHP
+Book Author : Josh Lockhart
+Book Quantity : 5
+Time And date : 07:06 AM, 25/08/2022
+==========================================
+Book ID : 4
+Book Name : Head First Python
+Book Author :  Paul Barry
+Book Quantity : 12
+Time And date : 07:08 AM, 25/08/2022
+==========================================
+#Removed! Book ID : 5
+#Removed! Book Name : C++ Primer
+#Removed! Book Author : Stanley B. Lippman
+#Removed! Book Quantity : 15
+#Removed! Time And date : 08:56 AM, 25/08/2022
+==========================================
+#Removed! Book ID : 5
+#Removed! Book Name : Java Java
+#Removed! Book Author : Javac
+#Removed! Book Quantity : 13
+#Removed! Time And date : 09:47 AM, 25/08/2022
+==========================================

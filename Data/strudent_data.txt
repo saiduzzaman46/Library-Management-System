@@ -1,0 +1,18 @@
+Student Id : 22-46006-1
+Student Name : Md.Saiduzzaman
+Course : BSC
+Deperment : CS
+Time and Date : 07:11 AM, 25/08/2022
+=================================
+Student Id : 22-46153-1
+Student Name : Tanjid 
+Course : PSD
+Deperment : CS
+Time and Date : 09:59 AM, 25/08/2022
+=================================
+Student Id : 22-46253-1
+Student Name : Nusrat Aksha
+Course : MSC
+Deperment : CS
+Time and Date : 10:04 AM, 25/08/2022
+=================================
